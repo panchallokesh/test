@@ -1,0 +1,47 @@
+#random-number-box {
+  border-radius: 50%;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 10px solid rgb(132, 242, 14);
+  padding: 60px;
+  display: flexbox;
+  font-size: 600%;
+  color: orange;
+}
+
+#generate-button {
+  border-radius: 50%;
+  background-color: rgb(62, 178, 250);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 100px;
+  color: rgb(246, 140, 34);
+}
+
+.text {
+  text-align: center;
+  font-size: 200%;
+  color: rgb(237, 25, 25);
+}
+
+.info {
+  text-align: left;
+  color: rgb(236, 115, 2);
+  font-size: 300%;
+}
+
+.mob {
+  text-align: left;
+  color: lightgreen;
+  font-size: 200%;
+}
+
+.info2 {
+  text-align: left;
+  color: red;
+  font-size: 200%
+}
